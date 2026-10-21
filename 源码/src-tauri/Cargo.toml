@@ -1,0 +1,24 @@
+[package]
+name = "number-bomb"
+version = "1.0.0"
+description = "数字炸弹"
+authors = ["you"]
+edition = "2021"
+rust-version = "1.77.2"
+
+[build-dependencies]
+tauri-build = { version = "2", features = [] }
+
+[dependencies]
+tauri = { version = "2", features = [] }
+base64 = "0.22"
+serde_json = "1"
+
+# 最小体积的发布配置
+[profile.release]
+opt-level = "s"      # 体积优先
+lto = true           # 链接时优化
+codegen-units = 1    # 更好的优化与更小的体积
+panic = "abort"      # 去掉 panic 展开代码
+strip = true         # 去除符号表
+incremental = false
