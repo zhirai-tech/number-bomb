@@ -1,3 +1,11 @@
+> **简体中文 | English**
+>
+> 数字炸弹：Windows 桌面聚会小游戏，包含数字炸弹、转盘、1–8 名玩家、屏幕 OCR 识别名字和离线语音朗读。源码使用 Tauri + Rust + Web 前端；Release 提供桌面程序。
+>
+> **Number Bomb** is a Windows desktop party game with number bombs, a wheel, 1–8 players, screen OCR for player names and offline speech. Source: Tauri + Rust + web frontend; the Release contains the desktop build.
+
+---
+
 # 数字炸弹
 
 Windows 桌面聚会小游戏：数字炸弹 + 转盘、玩家管理、屏幕 OCR 识别玩家名、WinRT 离线语音朗读。
