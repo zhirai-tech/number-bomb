@@ -1,6 +1,6 @@
 [English](README.md) | [简体中文](README.zh-CN.md)
 
-# Number Bomb
+# Number Bomb Party Game
 
 A Windows desktop party game built with Tauri and Rust.
 
