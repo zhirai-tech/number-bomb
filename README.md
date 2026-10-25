@@ -6,7 +6,12 @@
 
 ---
 
-# 数字炸弹
+# Number Bomb / 数字炸弹
+
+> **English** | [简体中文](#简体中文)
+>
+> Number Bomb is a Windows desktop party game with number bombs, a wheel, 1–8 players, screen OCR for player names and offline speech.
+
 
 > **English | 简体中文**
 >
