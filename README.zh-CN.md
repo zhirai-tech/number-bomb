@@ -1,4 +1,4 @@
-[English](README.md) | [简体中文](README.zh-CN.md)
+[English](README.md) | [简体中文](README.zh-CN.md) | [个人网站](https://zhinian-ai.com)
 
 ---
 
@@ -38,3 +38,9 @@ cargo build --release
 ## 说明
 
 这是 Windows 桌面程序，不提供 Web 在线版本。
+
+---
+
+## 个人网站
+
+**ZHIRAI / 智睿科技** — [zhinian-ai.com](https://zhinian-ai.com)
